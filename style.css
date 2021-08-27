@@ -10,3 +10,7 @@
 .navbar-toggle .icon-bar {
     background-color: #000000;
 }
+
+.card {
+    max-height: fit-content;
+}
